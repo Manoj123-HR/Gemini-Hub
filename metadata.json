@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Multimodal Hub",
+  "description": "A high-performance chatbot suite integrating Gemini's latest capabilities: Real-time voice interaction, AI image editing, Search-grounded intelligence, and Veo video animation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
